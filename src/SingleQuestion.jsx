@@ -25,3 +25,4 @@ SingleQuestion.propTypes = {
 };
 
 
+export default SingleQuestion;
